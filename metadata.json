@@ -1,0 +1,5 @@
+{
+  "name": "Incident Response: Containment & Recovery Planner",
+  "description": "A structured tool for incident response interns to manage malware containment, recovery, and prevention steps.",
+  "requestFramePermissions": []
+}
